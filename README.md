@@ -36,7 +36,7 @@
 
 :x: 5.0 wymaganie 5
 
-**Zadanie 3** Wzorce strukturalne
+**Zadanie 4** Wzorce strukturalne
 
 :white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/Pamdzia/Projektowanie-Obiektowe/tree/zadanie4-punkt1)
 
