@@ -50,11 +50,11 @@
 
 **Zadanie 5** Wzorce behawioralne
 
-:white_check_mark: 3.0 wymaganie 1 
+:white_check_mark: 3.0 wymaganie 1 [Link do commita 1](https://github.com/Pamdzia/Projektowanie-Obiektowe/tree/zadanie5-punkt1)
 
-:white_check_mark: 3.5 wymaganie 2 
+:white_check_mark: 3.5 wymaganie 2 [Link do commita 1](https://github.com/Pamdzia/Projektowanie-Obiektowe/tree/zadanie5-punkt2)
 
-:white_check_mark: 4.0 wymaganie 3
+:white_check_mark: 4.0 wymaganie 3 [Link do commita 1](https://github.com/Pamdzia/Projektowanie-Obiektowe/tree/zadanie5-punkt3)
 
 :x: 4.5 wymaganie 4
 
