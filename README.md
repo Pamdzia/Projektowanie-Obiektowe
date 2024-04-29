@@ -47,3 +47,15 @@
 :x: 4.5 wymaganie 4
 
 :x: 5.0 wymaganie 5
+
+**Zadanie 6** Zapaszki
+
+:white_check_mark: 3.0 wymaganie 1 [Repo server](https://github.com/Pamdzia/ProjObj-Lab6-server) [Repo client](https://github.com/Pamdzia/ProjObj-Lab6-client)
+
+:x: 3.5 wymaganie 2 
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
